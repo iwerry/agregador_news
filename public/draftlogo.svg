@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" fill="none">
+  <!-- Glow Filters for Neon Cyan Element -->
+  <defs>
+    <filter id="draft-cyan-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="draft-cyan-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ffff" />
+      <stop offset="100%" stop-color="#00d8f6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Letter D -->
+  <path d="M 40 40 L 110 40 C 160 40 190 70 190 120 C 190 170 160 200 110 200 L 40 200 Z M 76 72 L 76 168 L 108 168 C 138 168 154 150 154 120 C 154 90 138 72 108 72 Z" fill="#FFFFFF" fill-opacity="0.95" />
+
+  <!-- Letter R -->
+  <path d="M 215 40 L 290 40 C 330 40 355 60 355 95 C 355 120 340 138 318 144 L 360 200 L 318 200 L 280 148 L 251 148 L 251 200 L 215 200 Z M 251 72 L 251 118 L 285 118 C 306 118 319 109 319 95 C 319 81 306 72 285 72 Z" fill="#FFFFFF" fill-opacity="0.95" />
+
+  <!-- Circuit Traces & Nodes for Letter A -->
+  <!-- Left Side Node 1 -->
+  <line x1="365" y1="170" x2="365" y2="120" stroke="#00e5ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="365" cy="117" r="4.5" fill="#00e5ff" />
+
+  <!-- Left Side Node 2 -->
+  <line x1="380" y1="135" x2="380" y2="85" stroke="#00e5ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="380" cy="82" r="4.5" fill="#00e5ff" />
+
+  <!-- Right Side Node 1 (Tall) -->
+  <line x1="465" y1="125" x2="465" y2="60" stroke="#00e5ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="465" cy="57" r="4.5" fill="#00e5ff" />
+
+  <!-- Right Side Node 2 -->
+  <line x1="480" y1="150" x2="480" y2="102" stroke="#00e5ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="480" cy="99" r="4.5" fill="#00e5ff" />
+
+  <!-- Stylized Letter A (Futuristic Cyan Apex) -->
+  <!-- Outer Triangle with tech cutout -->
+  <path d="M 425 22 L 508 200 L 452 200 L 434 160 L 402 160 L 372 200 L 348 200 Z M 425 78 L 413 134 L 442 134 Z" fill="url(#draft-cyan-grad)" filter="url(#draft-cyan-glow)" />
+
+  <!-- Letter F -->
+  <path d="M 525 40 L 640 40 L 640 72 L 561 72 L 561 106 L 630 106 L 630 138 L 561 138 L 561 200 L 525 200 Z" fill="#FFFFFF" fill-opacity="0.95" />
+
+  <!-- Letter T -->
+  <path d="M 645 40 L 760 40 L 760 72 L 720 72 L 720 200 L 684 200 L 684 72 L 645 72 Z" fill="#FFFFFF" fill-opacity="0.95" />
+</svg>

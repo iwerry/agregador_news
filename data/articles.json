@@ -1,0 +1,338 @@
+[
+  {
+    "id": "art_tokyo_901",
+    "title": "Bolsa de Tóquio Registra Recorde Histórico em Sessão Noturna Impulsionada por Chips de IA de Nova Geração",
+    "originalTitle": "Tokyo Stock Exchange Surges to Record High in Night Session on Next-Gen AI Silicon",
+    "source": "Nikkei Asia",
+    "region": "Ásia & Oriente Médio",
+    "topic": "Tech & AI",
+    "country": "JP",
+    "language": "EN",
+    "sourceUrl": "https://asia.nikkei.com/business/markets/equities/foreign-ownership-of-japan-stocks-hits-new-record-on-ai-boom",
+    "publishedAt": "2026-09-04T02:15:00Z",
+    "sourceTimezone": "Asia/Tokyo",
+    "summary": "Investidores institucionais aceleram aportes em infraestrutura óptica e semicondutores após anúncio de cooperação entre conglomerados asiáticos e centros de supercomputação em Tsukuba.",
+    "biasScore": -12.4,
+    "biasDirection": "center_left",
+    "detectedKeywords": ["cooperação multilateral", "regulação estatal", "dados estatísticos"],
+    "aheadDaHora": true,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Acordo comercial assinado em Tóquio às 09:30 JST com meta de produção de wafers em 1.4nm até 2028 com investimento conjunto de US$ 14 bilhões.",
+      "narrativeA": {
+        "source": "SCMP (HK)",
+        "stance": "Alinhamento Asiático / Soberania Regional",
+        "quote": "Iniciativa estratégica consolida a autonomia tecnológica oriental frente às barreiras protecionistas norte-americanas."
+      },
+      "narrativeB": {
+        "source": "WSJ Business (US)",
+        "stance": "Apreensão Ocidental / Risco de Mercado",
+        "quote": "A rápida consolidação do cartel de silício no Pacífico coloca pressão sobre as cadeias de suprimento e controles de exportação de Washington."
+      },
+      "gsScore": 0.82
+    }
+  },
+  {
+    "id": "art_sydney_902",
+    "title": "Austrália Promulga Lei Histórica de Restauração Ecológica da Grande Barreira de Corais e Estabelece Zonas Marítimas Protegidas",
+    "originalTitle": "Australia Enacts Landmark Great Barrier Reef Restoration Law Establishing Marine Sanctuaries",
+    "source": "ABC News (AU)",
+    "region": "Oceania",
+    "topic": "Green & Planet",
+    "country": "AU",
+    "language": "EN",
+    "sourceUrl": "https://www.abc.net.au/news/2026-08-27/reduced-fertiliser-use-improving-water-quality-reef-catchments/107078816",
+    "publishedAt": "2026-09-04T01:30:00Z",
+    "sourceTimezone": "Australia/Sydney",
+    "summary": "O parlamento federal aprovou pacote de R$ 3,2 bilhões para financiar bio-sementes térmicas e limitar a navegação de cargueiros de carvão nas imediações de Queensland.",
+    "biasScore": -38.5,
+    "biasDirection": "left_multilateral",
+    "detectedKeywords": ["crise climática", "justiça climática", "ajuda humanitária internacional"],
+    "aheadDaHora": true,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Legislação australiana institui cota zero de emissões portuárias em áreas protegidas a partir do primeiro trimestre de 2027.",
+      "narrativeA": {
+        "source": "The Guardian",
+        "stance": "Urgência Climática Global",
+        "quote": "Vitória crucial da ciência cidadã contra décadas de leniência estatal e exploração predatória de recursos fósseis."
+      },
+      "narrativeB": {
+        "source": "The Australian",
+        "stance": "Segurança Econômica e Custos Industriais",
+        "quote": "Medida impõe custos punitivos sobre as cadeias de exportação de minério, ameaçando empregos regionais e competitividade."
+      },
+      "gsScore": 0.76
+    }
+  },
+  {
+    "id": "art_seoul_903",
+    "title": "Inovação em Baterias de Estado Sólido na Coreia do Sul Promete Autonomia de 1.200 km para Veículos Elétricos",
+    "originalTitle": "South Korea Tech Consortium Unveils Solid-State Battery with 1,200km Range",
+    "source": "Yonhap (KR)",
+    "region": "Ásia & Oriente Médio",
+    "topic": "Mobility & Auto",
+    "country": "KR",
+    "language": "EN",
+    "sourceUrl": "https://en.yna.co.kr/view/AEN20240306004900320",
+    "publishedAt": "2026-09-04T00:45:00Z",
+    "sourceTimezone": "Asia/Seoul",
+    "summary": "Testes em bancada em Daejeon confirmam densidade energética recorde e ciclo de recarga ultra-rápida de 9 minutos sem risco de degradação térmica.",
+    "biasScore": 4.5,
+    "biasDirection": "center_factual",
+    "detectedKeywords": ["segundo dados oficiais", "pesquisa aponta"],
+    "aheadDaHora": true,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Protótipos automotivos iniciarão testes em pista no inverno de 2026 sob supervisão do Instituto Nacional de Tecnologia Automotiva.",
+      "narrativeA": {
+        "source": "Nikkei Asia",
+        "stance": "Liderança Tecnológica Global",
+        "quote": "O avanço desloca o eixo de propriedade intelectual de mobilidade elétrica definitivamente para a Península Coreana."
+      },
+      "narrativeB": {
+        "source": "Automotive News Europe",
+        "stance": "Cautela de Escala Fabril",
+        "quote": "A transição do laboratório para linhas de gigafábricas exigirá supply chain de lítio refinado que ainda não existe em escala."
+      },
+      "gsScore": 0.88
+    }
+  },
+  {
+    "id": "art_brasilia_801",
+    "title": "Banco Central do Brasil e Tesouro Nacional Anunciam Integração do DREX com Sistemas de Compensação Transfronteiriça",
+    "originalTitle": "Banco Central do Brasil e Tesouro Anunciam Integração do DREX Transfronteiriço",
+    "source": "Folha de S.Paulo (BR)",
+    "region": "América do Sul",
+    "topic": "Business & Finance",
+    "country": "BR",
+    "language": "PT",
+    "sourceUrl": "https://search.folha.uol.com.br/?q=Drex+Banco+Central",
+    "publishedAt": "2026-09-03T19:00:00Z",
+    "sourceTimezone": "America/Sao_Paulo",
+    "summary": "Piloto de moeda digital soberana entra na terceira fase com liquidação programável atacadista em contratos agrícolas entre Brasil, Argentina e parceiros do Mercosul.",
+    "biasScore": 8.2,
+    "biasDirection": "center_factual",
+    "detectedKeywords": ["comunicado oficial", "dados estatísticos", "soberania nacional"],
+    "aheadDaHora": false,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Portaria conjunta regulamenta testes com 16 instituições financeiras privadas e cooperativas de crédito de grãos.",
+      "narrativeA": {
+        "source": "Valor Econômico",
+        "stance": "Eficiência e Liquidez de Capitais",
+        "quote": "Modernização sem precedentes reduz o custo do spread cambial em transações bilaterais na Bacia do Prata."
+      },
+      "narrativeB": {
+        "source": "Revista Oeste",
+        "stance": "Vigilância Estatal e Centralização",
+        "quote": "Criação de trilhas digitais programáveis abre precedentes para controle financeiro e rastreamento fiscal sobre o produtor rural."
+      },
+      "gsScore": 0.69
+    }
+  },
+  {
+    "id": "art_paris_802",
+    "title": "Union Européenne : Adoption du Règlement Cadre sur les Modèles d'IA Autonomes et l'Audit d'Algorithmes Publiques",
+    "originalTitle": "Union Européenne : Adoption du Règlement Cadre sur les Modèles d'IA Autonomes",
+    "source": "Le Monde (FR)",
+    "region": "Europe",
+    "topic": "Tech & AI",
+    "country": "FR",
+    "language": "FR",
+    "sourceUrl": "https://www.lemonde.fr/pixels/article/2024/03/13/l-union-europeenne-adopte-une-loi-inedite-au-monde-pour-reguler-l-intelligence-artificielle_6221815_4408996.html",
+    "publishedAt": "2026-09-03T18:20:00Z",
+    "sourceTimezone": "Europe/Paris",
+    "summary": "Le Conseil et le Parlement européen valident les tests de pénétration obligatoires et la publication des sources de données d'entraînement pour les systèmes à fort impact.",
+    "biasScore": -24.6,
+    "biasDirection": "left_multilateral",
+    "detectedKeywords": ["régulation étatique", "droits humains", "coopération multilatérale"],
+    "aheadDaHora": false,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Le texte prévoit des amendes maximales de 7% du chiffre d'affaires mondial pour le non-respect des règles de transparence.",
+      "narrativeA": {
+        "source": "Libération",
+        "stance": "Protection Citoyenne et Démocratie",
+        "quote": "Un rempart indispensable contre l'oligopole des géants de la Silicon Valley et la manipulation des opinions."
+      },
+      "narrativeB": {
+        "source": "Les Echos",
+        "stance": "Frein à la Compétitivité",
+        "quote": "Le risque de décrochage technologique s'accentue face au pragmatisme dérégulé des États-Unis et de la Chine."
+      },
+      "gsScore": 0.79
+    }
+  },
+  {
+    "id": "art_us_803",
+    "title": "NASA Confirms Artemis IV Lunar Habitat Deployment Architecture with Commercial Reusable Landers",
+    "originalTitle": "NASA Confirms Artemis IV Lunar Habitat Deployment Architecture with Commercial Reusable Landers",
+    "source": "NASA News",
+    "region": "América do Norte",
+    "topic": "Space & Cosmos",
+    "country": "US",
+    "language": "EN",
+    "sourceUrl": "https://www.nasa.gov/mission/artemis-iv/",
+    "publishedAt": "2026-09-03T17:40:00Z",
+    "sourceTimezone": "America/New_York",
+    "summary": "Contract milestones finalized for the South Pole lunar base camp power node, utilizing compact fission reactors developed under public-private partnership.",
+    "biasScore": 15.3,
+    "biasDirection": "center_right",
+    "detectedKeywords": ["national sovereignty", "homeland defense", "free enterprise"],
+    "aheadDaHora": false,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Launch schedule slated for November 2028 from Kennedy Space Center Complex 39B.",
+      "narrativeA": {
+        "source": "SpaceNews",
+        "stance": "Geopolitical Primacy",
+        "quote": "Permanent lunar infrastructure secures decisive American leadership in the cislunar economy over competing space powers."
+      },
+      "narrativeB": {
+        "source": "Scientific American",
+        "stance": "International Scientific Heritage",
+        "quote": "Planetary exploration requires an open multilateral scientific regime to safeguard polar ice deposits from commercial monopoly."
+      },
+      "gsScore": 0.85
+    }
+  },
+  {
+    "id": "art_antarctica_804",
+    "title": "Estações Científicas na Antártica Detectam Descoberta de Vida Microbiana Extrema sob 3 km de Gelo no Lago Vostok",
+    "originalTitle": "BAS and Polar Scientists Discover Active Chemosynthetic Ecosystem Beneath 3km Ice Sheet",
+    "source": "BAS (British Antarctic Survey)",
+    "region": "Antártica",
+    "topic": "Science",
+    "country": "AQ",
+    "language": "EN",
+    "sourceUrl": "https://www.nature.com/articles/s41467-024-45812-4",
+    "publishedAt": "2026-09-03T16:15:00Z",
+    "sourceTimezone": "Antarctica/Palmer",
+    "summary": "Amostras estéreis recuperadas por sonda geotérmica revelam micro-organismos que sobrevivem à base de enxofre e ferro na completa ausência de luz solar há milhões de anos.",
+    "biasScore": -2.0,
+    "biasDirection": "center_factual",
+    "detectedKeywords": ["official report states", "data indicates"],
+    "aheadDaHora": false,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Publicação com revisão por pares no periódico Nature confirma o sequenciamento de 14 genomas bacterianos inéditos.",
+      "narrativeA": {
+        "source": "Polar Journal",
+        "stance": "Analogia com Exoplanetas",
+        "quote": "Descoberta eleva drasticamente as probabilidades de biosignaturas ativas nos oceanos subterrâneos de Luas como Europa e Encélado."
+      },
+      "narrativeB": {
+        "source": "MercoPress",
+        "stance": "Soberania e Tratado Antártico",
+        "quote": "Avanço renova o debate geopolítico sobre propriedade intelectual de recursos genéticos extraídos em território internacional neutro."
+      },
+      "gsScore": 0.91
+    }
+  },
+  {
+    "id": "art_cairo_805",
+    "title": "Cúpula de Ministros da União Africana em Nairobi Assina Acordo para Mercado Comum de Energia Renovável e Hidrogênio Verde",
+    "originalTitle": "African Union Ministers Finalize Clean Energy Grid Accord and Green Hydrogen Standard",
+    "source": "Africanews",
+    "region": "África",
+    "topic": "Green & Planet",
+    "country": "CG",
+    "language": "EN",
+    "sourceUrl": "https://www.africanews.com/search/?q=Nairobi+clean+energy",
+    "publishedAt": "2026-09-03T15:50:00Z",
+    "sourceTimezone": "Africa/Nairobi",
+    "summary": "Iniciativa conjunta entre 22 países africanos visa conectar os corredores eólicos do Rift Valley e os parques solares do Saara para abastecer indústrias locais e exportação sustentável.",
+    "biasScore": -19.8,
+    "biasDirection": "left_multilateral",
+    "detectedKeywords": ["cooperação multilateral", "justiça social", "transição ecológica"],
+    "aheadDaHora": false,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Banco Africano de Desenvolvimento comprometeu primeiros US$ 4,5 bilhões em garantias de risco para usinas de eletrólise.",
+      "narrativeA": {
+        "source": "The Africa Report",
+        "stance": "Soberania Energética Panafricana",
+        "quote": "O continente deixa de ser mero exportador de minério bruto e passa a refinar materiais com energia limpa própria."
+      },
+      "narrativeB": {
+        "source": "Financial Times",
+        "stance": "Viabilidade Financeira e Risco Soberano",
+        "quote": "O sucesso do grid transcontinental dependerá de reformas regulatórias de câmbio e mitigação de volatilidade política nas fronteiras."
+      },
+      "gsScore": 0.83
+    }
+  },
+  {
+    "id": "art_mexico_806",
+    "title": "Secretaría de Economía de México Registra Nuevo Récord de Nearshoring con Inversiones en Semiconductores en Guadalajara",
+    "originalTitle": "México Rompe Récord de Nearshoring Tecnológico en el Bajío y Jalisco",
+    "source": "El Universal (MX)",
+    "region": "América do Norte",
+    "topic": "Business & Finance",
+    "country": "MX",
+    "language": "ES",
+    "sourceUrl": "https://www.eluniversal.com.mx/buscador/?q=nearshoring+semiconductores",
+    "publishedAt": "2026-09-03T18:40:00Z",
+    "sourceTimezone": "America/Mexico_City",
+    "summary": "Empresas multinacionales anuncian complejos de empaquetado avanzado y logística en el corredor occidental aprovechando el T-MEC.",
+    "biasScore": 18.0,
+    "biasDirection": "right_nationalist",
+    "detectedKeywords": ["soberanía nacional", "libre mercado", "crecimiento económico"],
+    "aheadDaHora": false,
+    "hasInconsistencyStamp": false,
+    "capyMatrix": {
+      "factualConsensus": "Inversión confirmada de 5.200 millones de dólares para generar 28.000 empleos especializados en electrónica.",
+      "narrativeA": {
+        "source": "El Universal",
+        "stance": "Orgullo Industrial Mexicano",
+        "quote": "México se afianza como el nodo neurálgico manufacturero indispensable para la seguridad tecnológica del continente."
+      },
+      "narrativeB": {
+        "source": "The New York Times",
+        "stance": "Desafíos de Infraestructura y Agua",
+        "quote": "El auge de plantas tecnológicas intensifica el estrés hídrico y la demanda sobre la red eléctrica nacional."
+      },
+      "gsScore": 0.74
+    }
+  },
+  {
+    "id": "art_inconsistency_807",
+    "title": "Declaração Sobre Reservas de Lítio na Eurásia Sofre Retratação Oficial Após Auditoria Geológica Independente",
+    "originalTitle": "Eurasia Lithium Reserves Claim Formally Retracted Following Independent Geological Audit",
+    "source": "Kyiv Independent (UA)",
+    "region": "Europe",
+    "topic": "Science",
+    "country": "UA",
+    "language": "EN",
+    "sourceUrl": "https://kyivindependent.com/tag/investigation/",
+    "publishedAt": "2026-09-03T14:10:00Z",
+    "sourceTimezone": "Europe/Kiev",
+    "summary": "Agências de fact-checking e geólogos da União Europeia desmentiram relatório preliminar que alegava descoberta de mina recorde sem validação espectrométrica.",
+    "biasScore": 42.0,
+    "biasDirection": "right_nationalist",
+    "detectedKeywords": ["interesses estratégicos nacionais", "valores tradicionais", "preemptive defense"],
+    "aheadDaHora": false,
+    "hasInconsistencyStamp": true,
+    "inconsistencyDetails": {
+      "date": "2026-08-14",
+      "agency": "AFP / EU Fact-Checking Consortium",
+      "verdict": "Alegação de teores de pureza de 98% desmentida após análise de perfuração independente.",
+      "historicalWarning": "⚠️ Selo Retroativo Permanente: Este veículo possui histórico registrado de retificação de dados em commodities minerais."
+    },
+    "capyMatrix": {
+      "factualConsensus": "Amostragens reais indicam concentração média de apenas 0,8%, comum em bacias sedimentares regionais.",
+      "narrativeA": {
+        "source": "Kyiv Independent",
+        "stance": "Denúncia de Guerra de Informação",
+        "quote": "Tentativa de inflar ativos estratégicos durante negociações de tratados comerciais com blocos ocidentais."
+      },
+      "narrativeB": {
+        "source": "DW Fact Check",
+        "stance": "Auditoria de Integridade",
+        "quote": "A propagação inicial do boato gerou pico artificial em ações de exploração antes da retificação obrigatória."
+      },
+      "gsScore": 0.65
+    }
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "Regions": {
+    "Global": [
+      { "name": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "lang": "EN", "country": "UK", "timezone": "Europe/London" },
+      { "name": "Reuters World", "url": "https://www.reutersagency.com/feed/?best-topics=political-general&post_type=best", "lang": "EN", "country": "UK", "timezone": "Europe/London" },
+      { "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "lang": "EN", "country": "QA", "timezone": "Asia/Qatar" },
+      { "name": "New York Times (World)", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "lang": "EN", "country": "US", "timezone": "America/New_York" },
+      { "name": "CNN World", "url": "http://rss.cnn.com/rss/edition_world.rss", "lang": "EN", "country": "US", "timezone": "America/New_York" },
+      { "name": "Deutsche Welle", "url": "https://rss.dw.com/xml/rss-en-world", "lang": "EN", "country": "DE", "timezone": "Europe/Berlin" },
+      { "name": "France 24", "url": "https://www.france24.com/en/world/rss", "lang": "EN", "country": "FR", "timezone": "Europe/Paris" },
+      { "name": "UN News", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "lang": "EN", "country": "INT", "timezone": "America/New_York" }
+    ],
+    "Europe": [
+      { "name": "The Guardian (UK)", "url": "https://www.theguardian.com/world/rss", "lang": "EN", "country": "UK", "timezone": "Europe/London" },
+      { "name": "POLITICO Europe", "url": "https://www.politico.eu/feed/", "lang": "EN", "country": "BE", "timezone": "Europe/Brussels" },
+      { "name": "Le Monde (FR)", "url": "https://www.lemonde.fr/rss/une.xml", "lang": "FR", "country": "FR", "timezone": "Europe/Paris" },
+      { "name": "Le Figaro (FR)", "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml", "lang": "FR", "country": "FR", "timezone": "Europe/Paris" },
+      { "name": "Público (PT)", "url": "https://www.publico.pt/api/list/ultimas", "lang": "PT", "country": "PT", "timezone": "Europe/Lisbon" },
+      { "name": "RTP Notícias (PT)", "url": "https://www.rtp.pt/noticias/rss", "lang": "PT", "country": "PT", "timezone": "Europe/Lisbon" },
+      { "name": "El País (ES)", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "lang": "ES", "country": "ES", "timezone": "Europe/Madrid" },
+      { "name": "El Mundo (ES)", "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml", "lang": "ES", "country": "ES", "timezone": "Europe/Madrid" },
+      { "name": "Der Spiegel (DE)", "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss", "lang": "DE", "country": "DE", "timezone": "Europe/Berlin" },
+      { "name": "Corriere della Sera (IT)", "url": "https://xml2.corriereobjects.it/rss/primapagina.xml", "lang": "IT", "country": "IT", "timezone": "Europe/Rome" }
+    ],
+    "América do Norte": [
+      { "name": "AP News (US)", "url": "https://apnews.com/hub/us-news.rss", "lang": "EN", "country": "US", "timezone": "America/New_York" },
+      { "name": "New York Times (US)", "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml", "lang": "EN", "country": "US", "timezone": "America/New_York" },
+      { "name": "Washington Post (US)", "url": "https://feeds.washingtonpost.com/rss/national", "lang": "EN", "country": "US", "timezone": "America/New_York" },
+      { "name": "CBC News (CA)", "url": "https://www.cbc.ca/webfeed/rss/rss-topstories", "lang": "EN", "country": "CA", "timezone": "America/Toronto" },
+      { "name": "El Universal (MX)", "url": "https://www.eluniversal.com.mx/rss.xml", "lang": "ES", "country": "MX", "timezone": "America/Mexico_City" }
+    ],
+    "América do Sul": [
+      { "name": "Folha de S.Paulo (BR)", "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml", "lang": "PT", "country": "BR", "timezone": "America/Sao_Paulo" },
+      { "name": "Estadão (BR)", "url": "https://www.estadao.com.br/rss", "lang": "PT", "country": "BR", "timezone": "America/Sao_Paulo" },
+      { "name": "O Globo (BR)", "url": "https://oglobo.globo.com/rss/xml/ultimas/rss.xml", "lang": "PT", "country": "BR", "timezone": "America/Sao_Paulo" },
+      { "name": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/feed/", "lang": "PT", "country": "BR", "timezone": "America/Sao_Paulo" },
+      { "name": "Clarín (AR)", "url": "https://www.clarin.com/rss/lo-ultimo/", "lang": "ES", "country": "AR", "timezone": "America/Argentina/Buenos_Aires" },
+      { "name": "El Tiempo (CO)", "url": "https://www.eltiempo.com/rss/mundo.xml", "lang": "ES", "country": "CO", "timezone": "America/Bogota" },
+      { "name": "El Comercio (PE)", "url": "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml", "lang": "ES", "country": "PE", "timezone": "America/Lima" }
+    ],
+    "Ásia & Oriente Médio": [
+      { "name": "Xinhua (CN)", "url": "http://www.xinhuanet.com/english/rss/xinhuanews.xml", "lang": "EN", "country": "CN", "timezone": "Asia/Shanghai" },
+      { "name": "SCMP (HK)", "url": "https://www.scmp.com/rss/91/feed", "lang": "EN", "country": "HK", "timezone": "Asia/Hong_Kong" },
+      { "name": "Japan Times (JP)", "url": "https://www.japantimes.co.jp/feed", "lang": "EN", "country": "JP", "timezone": "Asia/Tokyo" },
+      { "name": "Nikkei Asia", "url": "https://asia.nikkei.com/rss/feed/nar", "lang": "EN", "country": "JP", "timezone": "Asia/Tokyo" },
+      { "name": "Yonhap (KR)", "url": "https://en.yna.co.kr/RSS/news.xml", "lang": "EN", "country": "KR", "timezone": "Asia/Seoul" },
+      { "name": "Al Jazeera (QA)", "url": "https://www.aljazeera.com/xml/rss/all.xml", "lang": "EN", "country": "QA", "timezone": "Asia/Qatar" },
+      { "name": "The National (UAE)", "url": "https://www.thenationalnews.com/rss", "lang": "EN", "country": "AE", "timezone": "Asia/Dubai" },
+      { "name": "The Times of India", "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "lang": "EN", "country": "IN", "timezone": "Asia/Kolkata" }
+    ],
+    "Oceania": [
+      { "name": "ABC News (AU)", "url": "https://www.abc.net.au/news/feed/51120/rss.xml", "lang": "EN", "country": "AU", "timezone": "Australia/Sydney" },
+      { "name": "Sydney Morning Herald", "url": "https://www.smh.com.au/rss/feed.xml", "lang": "EN", "country": "AU", "timezone": "Australia/Sydney" },
+      { "name": "RNZ National (NZ)", "url": "https://www.rnz.co.nz/rss/national.xml", "lang": "EN", "country": "NZ", "timezone": "Pacific/Auckland" },
+      { "name": "NZ Herald", "url": "https://rss.nzherald.co.nz/rss/xml/nzhrsscid_000000002.xml", "lang": "EN", "country": "NZ", "timezone": "Pacific/Auckland" }
+    ],
+    "África": [
+      { "name": "Africanews", "url": "https://www.africanews.com/feed/rss", "lang": "EN", "country": "CG", "timezone": "Africa/Brazzaville" },
+      { "name": "Daily Maverick (ZA)", "url": "https://www.dailymaverick.co.za/rss", "lang": "EN", "country": "ZA", "timezone": "Africa/Johannesburg" },
+      { "name": "Premium Times (NG)", "url": "https://www.premiumtimesng.com/feed", "lang": "EN", "country": "NG", "timezone": "Africa/Lagos" },
+      { "name": "The EastAfrican", "url": "https://www.theeastafrican.co.ke/rss", "lang": "EN", "country": "KE", "timezone": "Africa/Nairobi" }
+    ],
+    "Antártica": [
+      { "name": "BAS (British Antarctic Survey)", "url": "https://www.bas.ac.uk/feed/", "lang": "EN", "country": "AQ", "timezone": "Antarctica/Palmer" },
+      { "name": "The Antarctic Sun (USA)", "url": "https://antarcticsun.usap.gov/feed/", "lang": "EN", "country": "AQ", "timezone": "Antarctica/McMurdo" },
+      { "name": "Australian Antarctic Division", "url": "https://www.antarctica.gov.au/rss/news.xml", "lang": "EN", "country": "AQ", "timezone": "Antarctica/Casey" },
+      { "name": "Polar Journal", "url": "https://polarjournal.ch/en/feed/", "lang": "EN", "country": "AQ", "timezone": "Antarctica/Rothera" }
+    ]
+  },
+  "Topics": {
+    "Business & Finance": [
+      { "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "lang": "EN" },
+      { "name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "lang": "EN" },
+      { "name": "WSJ Business", "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "lang": "EN" },
+      { "name": "Valor Econômico", "url": "https://www.valor.com.br/rss", "lang": "PT" }
+    ],
+    "Tech & AI": [
+      { "name": "OpenAI Blog", "url": "https://openai.com/news/rss.xml", "lang": "EN" },
+      { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "lang": "EN" },
+      { "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "lang": "EN" },
+      { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "lang": "EN" },
+      { "name": "Wired", "url": "https://www.wired.com/feed/rss", "lang": "EN" }
+    ],
+    "Space & Cosmos": [
+      { "name": "NASA News", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "lang": "EN" },
+      { "name": "ESA (Europe)", "url": "https://www.esa.int/rssfeed/TopNews", "lang": "EN" },
+      { "name": "SpaceNews", "url": "https://spacenews.com/feed/", "lang": "EN" },
+      { "name": "Universe Today", "url": "https://www.universetoday.com/feed/", "lang": "EN" }
+    ],
+    "Science": [
+      { "name": "Nature", "url": "https://www.nature.com/nature.rss", "lang": "EN" },
+      { "name": "Science Magazine", "url": "https://www.science.org/rss/news_current.xml", "lang": "EN" },
+      { "name": "Scientific American", "url": "http://rss.sciam.com/ScientificAmerican-Global", "lang": "EN" },
+      { "name": "Pesquisa FAPESP", "url": "https://revistapesquisa.fapesp.br/feed/", "lang": "PT" }
+    ],
+    "Green & Planet": [
+      { "name": "CleanTechnica", "url": "https://cleantechnica.com/feed/", "lang": "EN" },
+      { "name": "Mongabay", "url": "https://news.mongabay.com/feed/", "lang": "EN" },
+      { "name": "InfoAmazonia", "url": "https://infoamazonia.org/feed/", "lang": "PT" }
+    ],
+    "Health & Wellness": [
+      { "name": "WHO (World Health)", "url": "https://www.who.int/feeds/entity/news/en/rss.xml", "lang": "EN" },
+      { "name": "The Lancet", "url": "https://www.thelancet.com/rssfeed/langlo_current.xml", "lang": "EN" },
+      { "name": "Drauzio Varella", "url": "https://drauziovarella.uol.com.br/feed/", "lang": "PT" }
+    ],
+    "Culture & Arts": [
+      { "name": "Pitchfork", "url": "https://pitchfork.com/feed/feed-news/rss", "lang": "EN" },
+      { "name": "Artnet News", "url": "https://news.artnet.com/feed", "lang": "EN" },
+      { "name": "Hyperallergic", "url": "https://hyperallergic.com/feed/", "lang": "EN" }
+    ],
+    "Design & Architecture": [
+      { "name": "ArchDaily", "url": "https://www.archdaily.com/feed", "lang": "EN" },
+      { "name": "Dezeen", "url": "https://www.dezeen.com/feed", "lang": "EN" },
+      { "name": "Designboom", "url": "https://www.designboom.com/feed", "lang": "EN" }
+    ],
+    "Lifestyle": [
+      { "name": "Hypebeast", "url": "https://hypebeast.com/feeds/rss", "lang": "EN" },
+      { "name": "Highsnobiety", "url": "https://www.highsnobiety.com/feed", "lang": "EN" }
+    ],
+    "Gaming & Sports": [
+      { "name": "IGN", "url": "https://www.ign.com/rss/articles.xml", "lang": "EN" },
+      { "name": "Eurogamer", "url": "https://www.eurogamer.net/rss", "lang": "EN" },
+      { "name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "lang": "EN" },
+      { "name": "GloboEsporte (BR)", "url": "https://ge.globo.com/rss/ge/", "lang": "PT" }
+    ],
+    "Mobility & Auto": [
+      { "name": "Autoblog", "url": "https://www.autoblog.com/rss.xml", "lang": "EN" },
+      { "name": "Motor1", "url": "https://www.motor1.com/rss/news/all/", "lang": "EN" },
+      { "name": "Quatro Rodas (BR)", "url": "https://quatrorodas.abril.com.br/feed/", "lang": "PT" }
+    ]
+  }
+}

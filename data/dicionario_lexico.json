@@ -1,0 +1,148 @@
+{
+  "version": "2.4.0",
+  "description": "Matriz Léxica Multilíngue do CapyScan para cálculo de viés e enquadramento geopolítico (Similaridade Cosseno / Pesos Vetoriais)",
+  "categories": {
+    "left_multilateral": {
+      "label": "Multilateral / Progressista (Esquerda)",
+      "color": "#00E5FF",
+      "vector_score": -1.0,
+      "terms": {
+        "pt": [
+          { "word": "invasão ilegal", "weight": 2.5 },
+          { "word": "direitos humanos", "weight": 1.8 },
+          { "word": "crise climática", "weight": 1.6 },
+          { "word": "desigualdade social", "weight": 1.9 },
+          { "word": "cooperação multilateral", "weight": 2.0 },
+          { "word": "crimes de guerra", "weight": 2.2 },
+          { "word": "genocídio", "weight": 2.8 },
+          { "word": "justiça climática", "weight": 1.7 },
+          { "word": "regulação estatal", "weight": 1.4 },
+          { "word": "democracia inclusiva", "weight": 1.5 },
+          { "word": "opressão sistemática", "weight": 2.4 },
+          { "word": "ajuda humanitária internacional", "weight": 1.6 },
+          { "word": "retaliação desproporcional", "weight": 2.3 },
+          { "word": "trabalhadores precarizados", "weight": 1.8 },
+          { "word": "transição ecológica urgente", "weight": 1.5 },
+          { "word": "sustentabilidade compulsória", "weight": 1.4 }
+        ],
+        "en": [
+          { "word": "unprovoked invasion", "weight": 2.5 },
+          { "word": "illegal aggression", "weight": 2.4 },
+          { "word": "human rights violations", "weight": 2.0 },
+          { "word": "climate emergency", "weight": 1.7 },
+          { "word": "multilateral alliance", "weight": 1.9 },
+          { "word": "social inequality", "weight": 1.8 },
+          { "word": "systemic racism", "weight": 2.2 },
+          { "word": "war crimes tribunal", "weight": 2.4 },
+          { "word": "disproportionate force", "weight": 2.3 },
+          { "word": "environmental protection", "weight": 1.5 },
+          { "word": "gun control reform", "weight": 1.8 },
+          { "word": "public healthcare expansion", "weight": 1.6 }
+        ],
+        "es": [
+          { "word": "invasión ilegal", "weight": 2.5 },
+          { "word": "derechos humanos", "weight": 1.8 },
+          { "word": "crisis climática", "weight": 1.7 },
+          { "word": "desigualdad social", "weight": 1.9 },
+          { "word": "cooperación multilateral", "weight": 2.0 },
+          { "word": "crímenes de guerra", "weight": 2.3 },
+          { "word": "fuerza desproporcionada", "weight": 2.2 }
+        ],
+        "fr": [
+          { "word": "invasion illégale", "weight": 2.5 },
+          { "word": "droits humains", "weight": 1.8 },
+          { "word": "urgence climatique", "weight": 1.7 },
+          { "word": "inégalités sociales", "weight": 1.9 },
+          { "word": "coopération multilatérale", "weight": 2.0 },
+          { "word": "crimes de guerre", "weight": 2.3 }
+        ]
+      }
+    },
+    "right_nationalist": {
+      "label": "Nacionalista / Soberanista (Direita)",
+      "color": "#FF1744",
+      "vector_score": 1.0,
+      "terms": {
+        "pt": [
+          { "word": "operação militar especial", "weight": 2.8 },
+          { "word": "soberania nacional", "weight": 1.9 },
+          { "word": "fronteiras seguras", "weight": 1.8 },
+          { "word": "desregulamentação", "weight": 1.5 },
+          { "word": "livre mercado", "weight": 1.6 },
+          { "word": "valores tradicionais", "weight": 2.0 },
+          { "word": "combate à censura", "weight": 1.8 },
+          { "word": "patriotismo", "weight": 1.7 },
+          { "word": "ordem pública e segurança", "weight": 1.6 },
+          { "word": "interesses estratégicos nacionais", "weight": 2.2 },
+          { "word": "ameaça à soberania", "weight": 2.1 },
+          { "word": "liberdade individual irrestrita", "weight": 1.7 },
+          { "word": "crescimento econômico sem amarras", "weight": 1.6 },
+          { "word": "defesa legítima preventiva", "weight": 2.4 },
+          { "word": "impostos abusivos", "weight": 1.8 }
+        ],
+        "en": [
+          { "word": "special military operation", "weight": 2.8 },
+          { "word": "national sovereignty", "weight": 2.0 },
+          { "word": "border security", "weight": 1.9 },
+          { "word": "free enterprise", "weight": 1.6 },
+          { "word": "deregulation", "weight": 1.5 },
+          { "word": "homeland defense", "weight": 2.1 },
+          { "word": "traditional family values", "weight": 1.9 },
+          { "word": "law and order", "weight": 1.7 },
+          { "word": "preemptive defense", "weight": 2.3 },
+          { "word": "tax cuts stimulus", "weight": 1.6 },
+          { "word": "energy independence oil", "weight": 1.8 },
+          { "word": "anti-woke crusade", "weight": 2.4 }
+        ],
+        "es": [
+          { "word": "operación militar especial", "weight": 2.8 },
+          { "word": "soberanía nacional", "weight": 2.0 },
+          { "word": "seguridad fronteriza", "weight": 1.9 },
+          { "word": "libre mercado", "weight": 1.6 },
+          { "word": "defensa de la patria", "weight": 2.0 },
+          { "word": "ley y orden", "weight": 1.7 }
+        ],
+        "fr": [
+          { "word": "opération militaire spéciale", "weight": 2.8 },
+          { "word": "souveraineté nationale", "weight": 2.0 },
+          { "word": "sécurité des frontières", "weight": 1.9 },
+          { "word": "libre entreprise", "weight": 1.6 },
+          { "word": "patriotisme économique", "weight": 1.9 }
+        ]
+      }
+    },
+    "center_factual": {
+      "label": "Consenso Factual / Noticioso",
+      "color": "#10B981",
+      "vector_score": 0.0,
+      "terms": {
+        "pt": [
+          { "word": "segundo dados oficiais", "weight": 1.5 },
+          { "word": "informou em comunicado", "weight": 1.4 },
+          { "word": "pesquisa aponta", "weight": 1.3 },
+          { "word": "estatísticas divulgadas", "weight": 1.4 },
+          { "word": "conforme acordado", "weight": 1.2 },
+          { "word": "reunião bilateral agendada", "weight": 1.3 },
+          { "word": "índice de inflação", "weight": 1.2 },
+          { "word": "declarou em entrevista coletiva", "weight": 1.3 }
+        ],
+        "en": [
+          { "word": "official report states", "weight": 1.5 },
+          { "word": "according to official figures", "weight": 1.4 },
+          { "word": "ministry stated in a release", "weight": 1.4 },
+          { "word": "data indicates", "weight": 1.3 },
+          { "word": "bilateral summit concluded", "weight": 1.2 }
+        ],
+        "es": [
+          { "word": "según cifras oficiales", "weight": 1.5 },
+          { "word": "comunicado oficial", "weight": 1.4 },
+          { "word": "datos confirman", "weight": 1.3 }
+        ],
+        "fr": [
+          { "word": "selon les données officielles", "weight": 1.5 },
+          { "word": "déclaration conjointe", "weight": 1.4 }
+        ]
+      }
+    }
+  }
+}

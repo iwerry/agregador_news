@@ -1,0 +1,329 @@
+{
+  "analytics_version": "1.2",
+  "last_aggregated": "2026-09-03T17:00:00Z",
+  "total_tracked_sessions": 1428,
+  "anonymous_profiles": [
+    {
+      "id": "guest_t5h2fzo",
+      "country": "Brasil",
+      "region": "Distrito Federal",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "desktop",
+      "browser": "Standard Web",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Global",
+        "América do Sul"
+      ],
+      "articlesRead": 1,
+      "lastVisit": "2026-09-04T01:00:18.009Z"
+    },
+    {
+      "id": "guest_67pxcxn",
+      "country": "Brasil",
+      "region": "Distrito Federal",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "desktop",
+      "browser": "Standard Web",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Global",
+        "América do Sul"
+      ],
+      "articlesRead": 1,
+      "lastVisit": "2026-09-04T01:00:18.005Z"
+    },
+    {
+      "id": "guest_aslsjky",
+      "country": "Brasil",
+      "region": "Distrito Federal",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "desktop",
+      "browser": "Standard Web",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Global",
+        "América do Sul"
+      ],
+      "articlesRead": 1,
+      "lastVisit": "2026-09-04T00:36:47.225Z"
+    },
+    {
+      "id": "guest_sir0k4k",
+      "country": "Brasil",
+      "region": "Distrito Federal",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "desktop",
+      "browser": "Standard Web",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Global",
+        "América do Sul"
+      ],
+      "articlesRead": 1,
+      "lastVisit": "2026-09-04T00:36:47.220Z"
+    },
+    {
+      "id": "guest_nv94jfs",
+      "country": "Brasil",
+      "region": "Distrito Federal",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "desktop",
+      "browser": "Standard Web",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Global",
+        "América do Sul"
+      ],
+      "articlesRead": 1,
+      "lastVisit": "2026-09-04T00:29:08.636Z"
+    },
+    {
+      "id": "guest_bmpfsg3",
+      "country": "Brasil",
+      "region": "Distrito Federal",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "desktop",
+      "browser": "Standard Web",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Global",
+        "América do Sul"
+      ],
+      "articlesRead": 1,
+      "lastVisit": "2026-09-04T00:29:08.633Z"
+    },
+    {
+      "id": "guest_1wi29ly",
+      "country": "Brasil",
+      "region": "Distrito Federal",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "desktop",
+      "browser": "Standard Web",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Global",
+        "América do Sul"
+      ],
+      "articlesRead": 1,
+      "lastVisit": "2026-09-04T00:29:07.855Z"
+    },
+    {
+      "id": "guest_tsndaz7",
+      "country": "Brasil",
+      "region": "Distrito Federal",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "desktop",
+      "browser": "Standard Web",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Global",
+        "América do Sul"
+      ],
+      "articlesRead": 1,
+      "lastVisit": "2026-09-04T00:29:07.851Z"
+    },
+    {
+      "id": "anon_br_01",
+      "country": "Brasil",
+      "region": "São Paulo",
+      "countryCode": "BR",
+      "timezone": "America/Sao_Paulo",
+      "gender": "não informado",
+      "device": "mobile",
+      "browser": "Chrome Mobile",
+      "preferredTopics": [
+        "Tech & AI",
+        "Business & Finance",
+        "Green & Planet"
+      ],
+      "preferredRegions": [
+        "América do Sul",
+        "Global"
+      ],
+      "articlesRead": 14,
+      "lastVisit": "2026-09-03T16:20:00Z"
+    },
+    {
+      "id": "anon_mx_02",
+      "country": "México",
+      "region": "Jalisco",
+      "countryCode": "MX",
+      "timezone": "America/Mexico_City",
+      "gender": "masculino",
+      "device": "desktop",
+      "browser": "Firefox",
+      "preferredTopics": [
+        "Tech & AI",
+        "Space & Cosmos",
+        "Gaming & Sports"
+      ],
+      "preferredRegions": [
+        "América do Norte",
+        "Global"
+      ],
+      "articlesRead": 28,
+      "lastVisit": "2026-09-03T15:45:00Z"
+    },
+    {
+      "id": "anon_de_03",
+      "country": "Alemanha",
+      "region": "Bavária",
+      "countryCode": "DE",
+      "timezone": "Europe/Berlin",
+      "gender": "feminino",
+      "device": "desktop",
+      "browser": "Safari",
+      "preferredTopics": [
+        "Science",
+        "Green & Planet",
+        "Business & Finance"
+      ],
+      "preferredRegions": [
+        "Europe",
+        "Global"
+      ],
+      "articlesRead": 42,
+      "lastVisit": "2026-09-03T16:55:00Z"
+    },
+    {
+      "id": "anon_jp_04",
+      "country": "Japão",
+      "region": "Kanto",
+      "countryCode": "JP",
+      "timezone": "Asia/Tokyo",
+      "gender": "não informado",
+      "device": "mobile",
+      "browser": "Edge Mobile",
+      "preferredTopics": [
+        "Tech & AI",
+        "Mobility & Auto",
+        "Science"
+      ],
+      "preferredRegions": [
+        "Ásia & Oriente Médio",
+        "Global"
+      ],
+      "articlesRead": 19,
+      "lastVisit": "2026-09-03T17:10:00Z"
+    },
+    {
+      "id": "anon_fr_05",
+      "country": "França",
+      "region": "Île-de-France",
+      "countryCode": "FR",
+      "timezone": "Europe/Paris",
+      "gender": "feminino",
+      "device": "desktop",
+      "browser": "Chrome",
+      "preferredTopics": [
+        "Culture & Arts",
+        "Design & Architecture",
+        "Lifestyle"
+      ],
+      "preferredRegions": [
+        "Europe",
+        "Global"
+      ],
+      "articlesRead": 31,
+      "lastVisit": "2026-09-03T14:30:00Z"
+    },
+    {
+      "id": "anon_ca_06",
+      "country": "Canadá",
+      "region": "Ontario",
+      "countryCode": "CA",
+      "timezone": "America/Toronto",
+      "gender": "não informado",
+      "device": "mobile",
+      "browser": "Safari Mobile",
+      "preferredTopics": [
+        "Green & Planet",
+        "Space & Cosmos",
+        "Health & Wellness"
+      ],
+      "preferredRegions": [
+        "América do Norte",
+        "Antártica"
+      ],
+      "articlesRead": 22,
+      "lastVisit": "2026-09-03T16:10:00Z"
+    }
+  ],
+  "regional_demand_gaps": [
+    {
+      "country": "México",
+      "userCount": 184,
+      "activeSources": 1,
+      "recommendedSources": [
+        "Reforma (MX)",
+        "El Economista (MX)",
+        "Aristegui Noticias (MX)"
+      ],
+      "gapScore": "High",
+      "notes": "Alta retenção de leitores mexicanos, porém o agregador possui apenas 'El Universal'. Recomenda-se adicionar 2 feeds adicionais."
+    },
+    {
+      "country": "Colômbia",
+      "userCount": 96,
+      "activeSources": 1,
+      "recommendedSources": [
+        "El Espectador (CO)",
+        "Semana (CO)"
+      ],
+      "gapScore": "Medium",
+      "notes": "Crescimento de acessos no tema Business e Política Andina."
+    },
+    {
+      "country": "Coreia do Sul",
+      "userCount": 120,
+      "activeSources": 1,
+      "recommendedSources": [
+        "Korea Herald",
+        "Hankyoreh"
+      ],
+      "gapScore": "Medium",
+      "notes": "Interesse acentuado em matérias Ahead da Hora de semicondutores e IA."
+    }
+  ]
+}

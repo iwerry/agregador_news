@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="capyPurpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9D4EDD" />
+      <stop offset="50%" stop-color="#8A2BE2" />
+      <stop offset="100%" stop-color="#6A0DAD" />
+    </linearGradient>
+    <filter id="capyGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- RSS Dot / Capybara Core Node -->
+  <circle cx="26" cy="74" r="7" fill="url(#capyPurpleGrad)" />
+
+  <!-- RSS Wave 1 (Lower-Mid Arc) -->
+  <path d="M 26 52 A 22 22 0 0 1 48 74" 
+        stroke="url(#capyPurpleGrad)" 
+        stroke-width="7" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" />
+
+  <!-- RSS Wave 2 (Outer Arc merging into Capybara silhouette) -->
+  <path d="M 26 34 A 40 40 0 0 1 66 74" 
+        stroke="url(#capyPurpleGrad)" 
+        stroke-width="7" 
+        stroke-linecap="round" />
+
+  <!-- Stylized Capybara Head Profile merging with the broadcast waves -->
+  <!-- Back of neck aligns with RSS, forehead, friendly snout, jaw and ear -->
+  <path d="M 50 36 
+           C 54 28, 62 23, 72 23 
+           C 74 23, 77 24, 78 26
+           C 80 23, 83 23, 85 25
+           C 87 27, 86 31, 84 34
+           C 88 36, 92 41, 92 48
+           C 92 57, 85 62, 76 62
+           C 71 62, 67 60, 63 56
+           L 58 64
+           C 54 70, 48 74, 42 74" 
+        stroke="url(#capyPurpleGrad)" 
+        stroke-width="6.5" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none" />
+
+  <!-- Capybara eye (peaceful, calm line) -->
+  <path d="M 75 40 Q 78 39 81 41" 
+        stroke="url(#capyPurpleGrad)" 
+        stroke-width="3.5" 
+        stroke-linecap="round" />
+
+  <!-- Capybara cute nose/nostril -->
+  <circle cx="88" cy="48" r="2.2" fill="url(#capyPurpleGrad)" />
+
+  <!-- Capybara gentle smile/mouth curve -->
+  <path d="M 87 53 Q 84 56 80 55" 
+        stroke="url(#capyPurpleGrad)" 
+        stroke-width="3" 
+        stroke-linecap="round" />
+</svg>

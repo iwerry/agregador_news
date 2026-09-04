@@ -1,0 +1,6 @@
+{
+  "name": "CapyNews",
+  "description": "CapyNews — Agregador de notícias global com feeds RSS em tempo real, telemetria analítica de viés e inovação temporal Ahead da Hora.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
